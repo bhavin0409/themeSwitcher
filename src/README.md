@@ -1,4 +1,6 @@
 
+## Structure
+
 - **App.jsx**  
   The main application component. Sets up the theme context and renders the UI.
 
